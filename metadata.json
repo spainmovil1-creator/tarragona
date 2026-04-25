@@ -1,0 +1,8 @@
+{
+  "name": "Historia de Tarragona",
+  "description": "Una guía turística interactiva con asistente de voz sobre la Historia de Tarragona.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
